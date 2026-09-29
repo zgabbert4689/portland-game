@@ -35,7 +35,10 @@
   },
   "name":"portland game game",
   "resources":[
+    {"id":{"name":"MenuUI","path":"objects/MenuUI/MenuUI.yy",},},
+    {"id":{"name":"ProtoPlayerRhettL","path":"objects/ProtoPlayerRhettL/ProtoPlayerRhettL.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ProtoPlayerSpriteRhettL","path":"sprites/ProtoPlayerSpriteRhettL/ProtoPlayerSpriteRhettL.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
